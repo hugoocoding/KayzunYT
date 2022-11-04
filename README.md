@@ -13,8 +13,7 @@
   <h4 align="center"> I'm a young developer passionate about <strong>Rugby</strong> and <strong>Boxe</strong>.
 </p>
 
-<h3  align='center'>📬 Contacts</h3>
----
+<h2 align='center'>📬 Contacts</h2>
 
 <p align="center">
   <a href="https://twitter.com/KayzunEnY"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
