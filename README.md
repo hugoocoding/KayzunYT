@@ -28,20 +28,12 @@
   <img height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">                                         
   <img height="30" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
     
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KayzunYT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <h2 align="center">⭐ Stats</h2>  
+    
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KayzunYT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayzunYT&show_icons=true&hide_border=true&theme=radical">
-
-</br></br></br></br></br></br></br></br></br>
-
-<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayzunYT&show_icons=true&hide_border=true&theme=radical">
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-#### Thank You 🙏🏼
-
-
-<!--[website]: -->
-[twitter]: https://twitter.com/KayzunEnY
