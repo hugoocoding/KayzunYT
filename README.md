@@ -4,6 +4,9 @@
 </p>
 
 ![GitHub](https://komarev.com/ghpvc/?username=KayzunYT&style=plastic)
+
+<p align="center">
+
 <br>
 
 <img height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -15,7 +18,7 @@
 - 📬 How to reach me: "Hugo'#2022
 
 <br>
-
+</p>
 
 ---
 ### 🔥 Languages and Tools: 
