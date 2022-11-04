@@ -22,7 +22,9 @@
   <h2 align='center'>🔭  I’m currently working and learning with ...</h2>
   <p align="center">
 
-  <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img height="30"   
+  <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img height="30"
+  src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><img height="30"
+  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                  
     
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KayzunYT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 
