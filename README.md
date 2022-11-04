@@ -13,15 +13,11 @@
   <h4 align="center"> I'm a young developer passionate about <strong>Rugby</strong> and <strong>Boxe</strong>.
 </p>
 
+<h3  align='center'>📬 Contacts</h3>
 ---
-### 🔥 Languages and Tools: 
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Redis" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br>
-<br>
-<br>
+<p align="center">
+  <a href="https://twitter.com/KayzunEnY"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 
 ---
 ### 🔴 My GitHub Stats
