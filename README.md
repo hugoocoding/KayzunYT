@@ -3,7 +3,7 @@
   <h1 align="center"><b>Hello there, I'm Hugo 👋</b></h1>
 </p>
 
-![GitHub](https://komarev.com/ghpvc/?username=KayzunYT&style=plastic)
+![GitHub](https://komarev.com/ghpvc/?username=hugoocoding&style=plastic)
 
   <p align="center">
 
@@ -30,7 +30,7 @@
     
   <h2 align="center">⭐ Stats</h2>  
     
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KayzunYT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hugoocoding&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayzunYT&show_icons=true&hide_border=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoocoding&show_icons=true&hide_border=true&theme=radical">
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
