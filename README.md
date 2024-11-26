@@ -16,7 +16,6 @@
   <h2 align='center'>📬 Contacts</h2>
 
   <p align="center">
-  <a href="https://twitter.com/KayzunEnY"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   <img height="40" src="https://discord.c99.nl/widget/theme-3/353276676261543947.png">
 
   <h2 align='center'>🔭  I’m currently working and learning with ...</h2>
